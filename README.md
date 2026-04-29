@@ -78,7 +78,7 @@ php -S localhost:8080
 
 ---
 
-## 🌐 API Endpoints v2.0
+## 🌐 API Endpoints 
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
