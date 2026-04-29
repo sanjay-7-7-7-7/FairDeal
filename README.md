@@ -1,11 +1,11 @@
-# 🛡 FairDeal v2.0 — AI Smart Shopping
+# 🛡 FairDeal — AI Smart Shopping
 
 AI-powered fake discount detection with a beautiful **Amazon-style e-commerce UI**.
 Browse 450+ products with real images, trust scores, price comparisons, and more.
 
 ---
 
-## ✨ What's New in v2.0
+## ✨ What's New
 
 - 🛍️ **Amazon-style product grid** with real product images (Unsplash)
 - 🔍 **Global search** across all products
